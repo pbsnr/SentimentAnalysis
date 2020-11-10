@@ -40,10 +40,3 @@ class IntegrationTesting(unittest.TestCase):
 
 if __name__ == '__main__':
 	unittest.main()
-
-
-# driver = webdriver.Firefox()
-# driver.get("http://localhost:5000")
-# elem = driver.find_element_by_name("p")
-# print(elem)
-# self.assertEqual(elem, 'test')
